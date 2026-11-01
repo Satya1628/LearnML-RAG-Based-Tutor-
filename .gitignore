@@ -1,0 +1,11 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.ipynb_checkpoints/
+# Original PDFs can exceed GitHub's browser upload limit. Keep the compact
+# generated chunks and embeddings in storage/ instead.
+knowledge_base/documents/*.pdf
