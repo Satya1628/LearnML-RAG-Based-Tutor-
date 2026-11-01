@@ -1,6 +1,7 @@
 # LearnML — AI Data Science & Machine Learning Tutor
 
 LearnML is a lightweight Retrieval-Augmented Generation (RAG) tutor. Ask questions about Data Science, Statistics, Machine Learning, Deep Learning and NLP, and receive structured explanations grounded in a small document library.
+Url[https://learnml-rag-based-tutor.streamlit.app/]
 
 ## What is included
 
